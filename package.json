@@ -1,0 +1,15 @@
+{
+  "name": "screepsmod-api-cli",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "screeps_mod": true,
+  "scripts": {},
+  "keywords": [
+    "screeps",
+    "mod",
+    "cli"
+  ],
+  "author": "Jonas Damtoft",
+  "license": "MIT"
+}
